@@ -710,3 +710,34 @@
 
 
 {{-- # # MAIL_PASSWORD=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 --}}
+
+<div class="featured_slick_gallery gray">
+    <div class="featured_slick_gallery-slide">
+        <div class="featured_slick_padd"><a href="{{ asset('assets/newFile1/img/0mg69.webp') }}"
+            class="mfp-gallery"><img src="{{ asset('assets/newFile1/img/0mg69.webp') }}"
+                class="img-fluid mx-auto" alt="" /></a>
+    </div>
+        <div class="featured_slick_padd"><a href="{{ asset('assets/newFile1/img/0mg70.webp') }}"
+            class="mfp-gallery"><img src="{{ asset('assets/newFile1/img/0mg70.webp') }}"
+                class="img-fluid mx-auto" alt="" /></a>
+    </div>
+ 
+        <div class="featured_slick_padd"><a href="{{ asset('assets/newFile1/img/0mg71.webp') }}"
+                class="mfp-gallery"><img src="{{ asset('assets/newFile1/img/0mg71.webp') }}"
+                    class="img-fluid mx-auto" alt="" /></a>
+        </div>
+        <div class="featured_slick_padd"><a href="{{ asset('assets/newFile1/img/0mg72.webp') }}"
+                class="mfp-gallery"><img src="{{ asset('assets/newFile1/img/0mg72.webp') }}"
+                    class="img-fluid mx-auto" alt="" /></a>
+        </div>
+        <div class="featured_slick_padd"><a href="{{ asset('assets/newFile1/img/0mg73.webp') }}"
+                class="mfp-gallery"><img src="{{ asset('assets/newFile1/img/0mg73.webp') }}"
+                    class="img-fluid mx-auto" alt="" /></a>
+        </div>
+        <div class="featured_slick_padd"><a href="{{ asset('assets/newFile1/img/0mg74.webp') }}"
+                class="mfp-gallery"><img src="{{ asset('assets/newFile1/img/0mg74.webp') }}"
+                    class="img-fluid mx-auto" alt="" /></a>
+        </div>
+    </div>
+    
+</div>

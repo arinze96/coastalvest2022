@@ -5,7 +5,7 @@
 <meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 
 <head>
-    <link rel="icon" type="image/png" href="{{ asset('assets/newfile4/img/favicon.png') }}" />
+    <link rel="icon" type="image/png" href="{{ asset('assets/newfile4/img/CT.png') }}" />
     <meta charSet="utf-8" />
     <title>CoastalTrustCapital-Medical Hedgefunds</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
@@ -13,16 +13,21 @@
     <meta name="og:title" property="og:title" content="Corf - React Medical Health &amp; Clinic Template" />
     <meta name="twitter:card" content="Corf - React Medical Health &amp; Clinic Template" />
     <link rel="canonical" href="index.html" />
-    <link rel="preload" href="{{ asset('assets/newfile4/_next/static/css/98ff5cdb7c8df17e7537.css') }}" as="style" />
-    <link rel="stylesheet" href="{{ asset('assets/newfile4/_next/static/css/98ff5cdb7c8df17e7537.css') }}" data-n-g="" /><noscript
-        data-n-css="true"></noscript>
-    <link rel="preload" href="{{ asset('assets/newfile4/_next/static/chunks/main-4a899a1e13053228bfd1.js') }}" as="script" />
-    <link rel="preload" href="{{ asset('assets/newfile4/_next/static/chunks/webpack-3b269ce22850e69593d6.js') }}" as="script" />
-    <link rel="preload" href="{{ asset('assets/newfile4/_next/static/chunks/framework.0edde26539d24c5d3def.js') }}" as="script" />
+    <link rel="preload" href="{{ asset('assets/newfile4/_next/static/css/98ff5cdb7c8df17e7537.css') }}"
+        as="style" />
+    <link rel="stylesheet" href="{{ asset('assets/newfile4/_next/static/css/98ff5cdb7c8df17e7537.css') }}"
+        data-n-g="" /><noscript data-n-css="true"></noscript>
+    <link rel="preload" href="{{ asset('assets/newfile4/_next/static/chunks/main-4a899a1e13053228bfd1.js') }}"
+        as="script" />
+    <link rel="preload" href="{{ asset('assets/newfile4/_next/static/chunks/webpack-3b269ce22850e69593d6.js') }}"
+        as="script" />
+    <link rel="preload" href="{{ asset('assets/newfile4/_next/static/chunks/framework.0edde26539d24c5d3def.js') }}"
+        as="script" />
     <link rel="preload"
         href="{{ asset('assets/newfile4/_next/static/chunks/df6f353dbf31b4d189cfa3dd96e96eb21cdb2e44.4a36a385313236c59b19.js') }}"
         as="script" />
-    <link rel="preload" href="{{ asset('assets/newfile4/_next/static/chunks/pages/_app-b03d1e7a305ef4c06a86.js') }}" as="script" />
+    <link rel="preload" href="{{ asset('assets/newfile4/_next/static/chunks/pages/_app-b03d1e7a305ef4c06a86.js') }}"
+        as="script" />
     {{-- <link rel="preload"
         href="{{ asset('assets/newfile4/_next/static/chunks/4339c7a041a19845c432c3fb550d1bbf48f1c120.88122a48b3c5fd166711.js') }}"
         as="script" /> --}}
@@ -41,7 +46,7 @@
 
 <body>
     <div id="__next">
-        
+
         <div class="main-banner-area">
             <div class="d-table">
                 <div class="d-table-cell">
@@ -54,7 +59,8 @@
                                     <h1 style="animation-name:none;visibility:hidden;animation-delay:1s"
                                         class="fadeInUp">We are Committed to Your Best Health</h1>
                                     <p style="animation-name:none;visibility:hidden;animation-delay:1s"
-                                        class="fadeInUp">We invest in high tech medical facilities that help solve specialized medical issues.</p>
+                                        class="fadeInUp">We invest in high tech medical facilities that help solve
+                                        specialized medical issues.</p>
                                     <div class="banner-btn fadeInUp"
                                         style="animation-name:none;visibility:hidden;animation-delay:1s"><a
                                             class="default-btn" href="appointment.html">Book An Appointment</a><a
@@ -66,10 +72,12 @@
                                 <div class="banner-img-wrap">
                                     <div class="banner-img fadeInUp"
                                         style="animation-name:none;visibility:hidden;animation-delay:1s"><img
-                                            src="{{ asset('assets/newfile4/img/home-one/home-one-banner.png') }}" alt="Image" />
+                                            src="{{ asset('assets/newfile4/img/home-one/home-one-banner.png') }}"
+                                            alt="Image" />
                                     </div>
                                     <div class="banner-shape"><img
-                                            src="{{ asset('assets/newfile4/img/home-one/home-one-shape.png') }}" alt="Image" />
+                                            src="{{ asset('assets/newfile4/img/home-one/home-one-shape.png') }}"
+                                            alt="Image" />
                                     </div>
                                 </div>
                             </div>
@@ -95,7 +103,8 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="shape"><img src="{{ asset('assets/newfile4/img/shape/shape1.png') }}" alt="Image" />
+                            <div class="shape"><img src="{{ asset('assets/newfile4/img/shape/shape1.png') }}"
+                                    alt="Image" />
                             </div>
                         </div>
                     </div>
@@ -107,7 +116,8 @@
                 <div class="row">
                     <div class="col-lg-4 col-sm-6">
                         <div class="second-facility-item"><img
-                                src="{{ asset('assets/newfile4/img/facility-img/facility-icon1.png') }}" alt="Image" />
+                                src="{{ asset('assets/newfile4/img/facility-img/facility-icon1.png') }}"
+                                alt="Image" />
                             <h3>Qualified Doctors</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
                                 ut labore et dolore.</p><a class="read-more" href="services-details.html">Read More <i
@@ -116,7 +126,8 @@
                     </div>
                     <div class="col-lg-4 col-sm-6">
                         <div class="second-facility-item"><img
-                                src="{{ asset('assets/newfile4/img/facility-img/facility-icon2.png') }}" alt="Image" />
+                                src="{{ asset('assets/newfile4/img/facility-img/facility-icon2.png') }}"
+                                alt="Image" />
                             <h3>Emergency Helicopter</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
                                 ut labore et dolore.</p><a class="read-more" href="services-details.html">Read More <i
@@ -125,7 +136,8 @@
                     </div>
                     <div class="col-lg-4 col-sm-6 offset-sm-3 offset-lg-0">
                         <div class="second-facility-item"><img
-                                src="{{ asset('assets/newfile4/img/facility-img/facility-icon3.png') }}" alt="Image" />
+                                src="{{ asset('assets/newfile4/img/facility-img/facility-icon3.png') }}"
+                                alt="Image" />
                             <h3>Leading Technology</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
                                 ut labore et dolore.</p><a class="read-more" href="services-details.html">Read More <i
@@ -139,12 +151,16 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-6">
-                        <div class="about-img"><img src="{{ asset('assets/newfile4/img/about/about1.jpg') }}" alt="Image" />
-                            <div class="shape-1"><img src="{{ asset('assets/newfile4/img/about/about-shape-1.png') }}"
+                        <div class="about-img"><img src="{{ asset('assets/newfile4/img/about/about1.jpg') }}"
+                                alt="Image" />
+                            <div class="shape-1"><img
+                                    src="{{ asset('assets/newfile4/img/about/about-shape-1.png') }}"
                                     alt="Image" /></div>
-                            <div class="shape-2"><img src="{{ asset('assets/newfile4/img/about/about-shape-2.png') }}"
+                            <div class="shape-2"><img
+                                    src="{{ asset('assets/newfile4/img/about/about-shape-2.png') }}"
                                     alt="Image" /></div>
-                            <div class="shape-3"><img src="{{ asset('assets/newfile4/img/about/about-shape-3.png') }}"
+                            <div class="shape-3"><img
+                                    src="{{ asset('assets/newfile4/img/about/about-shape-3.png') }}"
                                     alt="Image" /></div>
                         </div>
                     </div>
@@ -180,7 +196,8 @@
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
                                 ut labore dolore</p><a class="read-more" href="services-details.html">Read More <i
                                     class="bx bx-plus"></i></a>
-                            <div class="services-shape"><img src="{{ asset('assets/newfile4/img/services-card-shape.png') }}"
+                            <div class="services-shape"><img
+                                    src="{{ asset('assets/newfile4/img/services-card-shape.png') }}"
                                     alt="Image" />
                             </div>
                         </div>
@@ -191,7 +208,8 @@
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
                                 ut labore dolore</p><a class="read-more" href="services-details.html">Read More <i
                                     class="bx bx-plus"></i></a>
-                            <div class="services-shape"><img src="{{ asset('assets/newfile4/img/services-card-shape.png') }}"
+                            <div class="services-shape"><img
+                                    src="{{ asset('assets/newfile4/img/services-card-shape.png') }}"
                                     alt="Image" />
                             </div>
                         </div>
@@ -202,7 +220,8 @@
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
                                 ut labore dolore</p><a class="read-more" href="services-details.html">Read More <i
                                     class="bx bx-plus"></i></a>
-                            <div class="services-shape"><img src="{{ asset('assets/newfile4/img/services-card-shape.png') }}"
+                            <div class="services-shape"><img
+                                    src="{{ asset('assets/newfile4/img/services-card-shape.png') }}"
                                     alt="Image" />
                             </div>
                         </div>
@@ -213,7 +232,8 @@
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
                                 ut labore dolore</p><a class="read-more" href="services-details.html">Read More <i
                                     class="bx bx-plus"></i></a>
-                            <div class="services-shape"><img src="{{ asset('assets/newfile4/img/services-card-shape.png') }}"
+                            <div class="services-shape"><img
+                                    src="{{ asset('assets/newfile4/img/services-card-shape.png') }}"
                                     alt="Image" />
                             </div>
                         </div>
@@ -224,7 +244,8 @@
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
                                 ut labore dolore</p><a class="read-more" href="services-details.html">Read More <i
                                     class="bx bx-plus"></i></a>
-                            <div class="services-shape"><img src="{{ asset('assets/newfile4/img/services-card-shape.png') }}"
+                            <div class="services-shape"><img
+                                    src="{{ asset('assets/newfile4/img/services-card-shape.png') }}"
                                     alt="Image" />
                             </div>
                         </div>
@@ -235,7 +256,8 @@
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
                                 ut labore dolore</p><a class="read-more" href="services-details.html">Read More <i
                                     class="bx bx-plus"></i></a>
-                            <div class="services-shape"><img src="{{ asset('assets/newfile4/img/services-card-shape.png') }}"
+                            <div class="services-shape"><img
+                                    src="{{ asset('assets/newfile4/img/services-card-shape.png') }}"
                                     alt="Image" />
                             </div>
                         </div>
@@ -247,7 +269,9 @@
             <div class="container">
                 <div class="section-title"><span class="top-title">Our Doctors</span>
                     <h2>Our Specialist Doctors</h2>
-                    <p>A specialist is a medical doctor who is an expert in a specific area of medicine. To see a specialist, you will need to get a letter of referral from your local doctor first. Specialists work in clinics, and in both private and public hospitals.</p>
+                    <p>A specialist is a medical doctor who is an expert in a specific area of medicine. To see a
+                        specialist, you will need to get a letter of referral from your local doctor first. Specialists
+                        work in clinics, and in both private and public hospitals.</p>
                 </div>
             </div>
         </div>
@@ -259,7 +283,8 @@
                         blanditiis exercitationem incidunt, alias corporis quam assumenda dicta, temporibus.</p>
                 </div>
             </div>
-            <div class="shape"><img src="{{ asset('assets/newfile4/img/shape/work-shape.png') }}" alt="Image" /></div>
+            <div class="shape"><img src="{{ asset('assets/newfile4/img/shape/work-shape.png') }}" alt="Image" />
+            </div>
         </div>
         <div class="counter-area pt-100 pb-70">
             <div class="container">
@@ -291,8 +316,10 @@
                 </div>
             </div>
             <div class="shape-wrap">
-                <div class="shape-1"><img src="{{ asset('assets/newfile4/img/shape/counter-shape.png') }}" alt="Image" /></div>
-                <div class="shape-2"><img src="{{ asset('assets/newfile4/img/shape/counter-shape.png') }}" alt="Image" /></div>
+                <div class="shape-1"><img src="{{ asset('assets/newfile4/img/shape/counter-shape.png') }}"
+                        alt="Image" /></div>
+                <div class="shape-2"><img src="{{ asset('assets/newfile4/img/shape/counter-shape.png') }}"
+                        alt="Image" /></div>
             </div>
         </div>
         <div class="appointment-area jarallax">
@@ -357,7 +384,8 @@
                             </div>
                         </div>
                     </form>
-                    <div class="shape"><img src="{{ asset('assets/newfile4/img/shape/appointment-shape.png') }}" alt="Image" />
+                    <div class="shape"><img src="{{ asset('assets/newfile4/img/shape/appointment-shape.png') }}"
+                            alt="Image" />
                     </div>
                 </div>
             </div>
@@ -394,7 +422,8 @@
                     </div>
                 </div>
             </div>
-            <div class="shape"><img src="{{ asset('assets/newfile4/img/shape/emergency-shape.png') }}" alt="Image" /></div>
+            <div class="shape"><img src="{{ asset('assets/newfile4/img/shape/emergency-shape.png') }}"
+                    alt="Image" /></div>
         </div>
         <div class="client-area c-bg pt-100 pb-70">
             <div class="container">
@@ -415,7 +444,8 @@
                 <div class="row">
                     <div class="col-lg-4 col-md-6">
                         <div class="single-blog"><a href="blog-details.html"><img
-                                    src="{{ asset('assets/newfile4/img/blog/blog1.jpg') }}" alt="Image" /></a><span>10 May
+                                    src="{{ asset('assets/newfile4/img/blog/blog1.jpg') }}"
+                                    alt="Image" /></a><span>10 May
                                 202</span>
                             <div class="blog-content">
                                 <ul>
@@ -429,7 +459,8 @@
                     </div>
                     <div class="col-lg-4 col-md-6">
                         <div class="single-blog"><a href="blog-details.html"><img
-                                    src="{{ asset('assets/newfile4/img/blog/blog2.jpg') }}" alt="Image" /></a><span>11 May
+                                    src="{{ asset('assets/newfile4/img/blog/blog2.jpg') }}"
+                                    alt="Image" /></a><span>11 May
                                 2020</span>
                             <div class="blog-content">
                                 <ul>
@@ -443,7 +474,8 @@
                     </div>
                     <div class="col-lg-4 col-md-6 offset-md-3 offset-lg-0">
                         <div class="single-blog"><a href="blog-details.html"><img
-                                    src="{{ asset('assets/newfile4/img/blog/blog3.jpg') }}" alt="Image" /></a><span>13 May
+                                    src="{{ asset('assets/newfile4/img/blog/blog3.jpg') }}"
+                                    alt="Image" /></a><span>13 May
                                 2020</span>
                             <div class="blog-content">
                                 <ul>
@@ -477,8 +509,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-3 col-md-6">
-                        <div class="single-widget"><a href="index.html"><img src="{{ asset('assets/newfile4/img/logo.png') }}"
-                                    alt="Image" /></a>
+                        <div class="single-widget"><a href="index.html"><img
+                                    src="{{ asset('assets/newfile4/img/logo.png') }}" alt="Image" /></a>
                             <p>Lorem ipsum dolor, sit amet earum consectetur adipisicing elit. Cupiditate rerum quidem
                                 fugiat sapiente! Iusto quae perspiciatis, repudiandae ipsam minus et ex, aliquid dolor
                                 molestias, earum enim officiis porro obcaecati.</p>
@@ -538,27 +570,33 @@
                 </div>
             </div>
         </footer>
-        
+
         <div class="go-top "><i class="bx bx-chevrons-up"></i><i class="bx bx-chevrons-up"></i></div>
     </div>
     <script data-cfasync="false" src="{{ asset('cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js') }}">
     </script>
     <script id="__NEXT_DATA__"
         type="application/json">{"props":{"pageProps":{}},"page":"/","query":{},"buildId":"RI0_Qz8pbRGxvkGop6TxA","nextExport":true,"autoExport":true,"isFallback":false,"head":[["meta",{"charSet":"utf-8"}],["title",{"children":"Corf - React Medical Health \u0026 Clinic Template"}],["meta",{"name":"viewport","content":"width=device-width, initial-scale=1, shrink-to-fit=no"}],["meta",{"name":"description","content":"Corf - React Medical Health \u0026 Clinic Template"}],["meta",{"name":"og:title","property":"og:title","content":"Corf - React Medical Health \u0026 Clinic Template"}],["meta",{"name":"twitter:card","content":"Corf - React Medical Health \u0026 Clinic Template"}],["link",{"rel":"canonical","href":"https://corf-react.envytheme.com/"}]]}</script>
-    <script nomodule="" src="{{ asset('assets/newfile4/_next/static/chunks/polyfills-da0e72f1edb5871c0b17.js') }}"></script>
+    <script nomodule="" src="{{ asset('assets/newfile4/_next/static/chunks/polyfills-da0e72f1edb5871c0b17.js') }}">
+    </script>
     <script src="{{ asset('assets/newfile4/_next/static/chunks/main-4a899a1e13053228bfd1.js') }}" async=""></script>
     <script src="{{ asset('assets/newfile4/_next/static/chunks/webpack-3b269ce22850e69593d6.js') }}" async=""></script>
     <script src="{{ asset('assets/newfile4/_next/static/chunks/framework.0edde26539d24c5d3def.js') }}" async=""></script>
-    <script src="{{ asset('assets/newfile4/_next/static/chunks/df6f353dbf31b4d189cfa3dd96e96eb21cdb2e44.4a36a385313236c59b19.js') }}"
+    <script
+        src="{{ asset('assets/newfile4/_next/static/chunks/df6f353dbf31b4d189cfa3dd96e96eb21cdb2e44.4a36a385313236c59b19.js') }}"
         async=""></script>
     <script src="{{ asset('assets/newfile4/_next/static/chunks/pages/_app-b03d1e7a305ef4c06a86.js') }}" async=""></script>
-    <script src="{{ asset('assets/newfile4/_next/static/chunks/4339c7a041a19845c432c3fb550d1bbf48f1c120.88122a48b3c5fd166711.js') }}"
+    <script
+        src="{{ asset('assets/newfile4/_next/static/chunks/4339c7a041a19845c432c3fb550d1bbf48f1c120.88122a48b3c5fd166711.js') }}"
         async=""></script>
-    <script src="{{ asset('assets/newfile4/_next/static/chunks/63b73fb815da71ef6a7a09ffe34d77459b648474.984cdf72192072be94cc.js') }}"
+    <script
+        src="{{ asset('assets/newfile4/_next/static/chunks/63b73fb815da71ef6a7a09ffe34d77459b648474.984cdf72192072be94cc.js') }}"
         async=""></script>
-    <script src="{{ asset('assets/newfile4/_next/static/chunks/2c208cbc663f928af212892b7c753038f8d06051.dc53169975f62ddfb161.js') }}"
+    <script
+        src="{{ asset('assets/newfile4/_next/static/chunks/2c208cbc663f928af212892b7c753038f8d06051.dc53169975f62ddfb161.js') }}"
         async=""></script>
-    <script src="{{ asset('assets/newfile4/_next/static/chunks/238a1ec00aecfddb70c9250f6fa7716843b17720.3d07ca4d45c0a680e18b.js') }}"
+    <script
+        src="{{ asset('assets/newfile4/_next/static/chunks/238a1ec00aecfddb70c9250f6fa7716843b17720.3d07ca4d45c0a680e18b.js') }}"
         async=""></script>
     <script src="{{ asset('assets/newfile4/_next/static/chunks/pages/index-1601cf7503740442ff91.js') }}" async=""></script>
     <script src="{{ asset('assets/newfile4/_next/static/RI0_Qz8pbRGxvkGop6TxA/_buildManifest.js') }}" async=""></script>

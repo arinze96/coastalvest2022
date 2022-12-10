@@ -406,7 +406,7 @@
         </div>
         <div class="team-overlay"></div>
     </div>
-    
+
 
 
     <!--   Testimonial section start    -->
@@ -450,144 +450,159 @@
     </div>
     <!--   Testimonial section end    -->
     <div class="team-section section-padding" data-parallax="scroll" data-speed="0.2"
-    data-image-src="{{ asset('assets/newfile2/img/crypto_gif.gif') }}">
-    <div class="team-content">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6" style="background-color: black">
-                    <video style="width: 100%;" height="400" controls {{-- poster="{{ asset('assets/coastalvest.png') }}" --}}>
-                        <source src="{{ asset('assets/videos/ad.mp4') }}" type="video/mp4">
-                    </video>
-                </div>
-                <div class="col-lg-6">
-                    
-                    <span class="section-title">Angella Collison</span>
-                    <h2 class="section-summary">
-                        CoastalTrustCapital is highly technical and fanatically customer oriented. We’re excited to back such firm in one of the world’s fastest-growing regions.
-                    </h2>
-                </div>
-
-            </div>
-        </div>
-    </div>
-    <div class="team-overlay"></div>
-</div>
-
-    <!--    team section start   -->
-    <div class="team-section section-padding team-bg">
+        data-image-src="{{ asset('assets/newfile2/img/crypto_gif.gif') }}">
         <div class="team-content">
             <div class="container">
                 <div class="row">
+                    <div class="col-lg-6" style="background-color: black">
+                        <video style="width: 100%;" height="400" controls {{-- poster="{{ asset('assets/coastalvest.png') }}" --}}>
+                            <source src="{{ asset('assets/videos/ad.mp4') }}" type="video/mp4">
+                        </video>
+                    </div>
                     <div class="col-lg-6">
-                        <span class="section-title">Expert Team</span>
-                        <h2 class="section-summary">Meet our expert Coastal Trust Capital
-                            executive team
+
+                        {{-- <span class="section-title">Angella Collison</span> --}}
+                        <h2 class="section-summary">
+                            CoastalTrustCapital is highly technical and fanatically customer oriented. We’re excited to
+                            back such firm in one of the world’s fastest-growing regions.
                         </h2>
                     </div>
+
                 </div>
-                <div class="row">
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="single-team-member">
-                            <div class="team-img-wrapper">
-                                <img src="{{ asset('assets/newfile2/img/team/member-1.jpg') }}" alt="">
-                                <div class="social-accounts">
-                                    <ul class="social-account-lists">
-                                        <li class="single-social-account"><a href="#"><i
-                                                    class="fab fa-facebook-f"></i></a></li>
-                                        <li class="single-social-account"><a href="#"><i
-                                                    class="fab fa-twitter"></i></a></li>
-                                        <li class="single-social-account"><a href="#"><i
-                                                    class="fab fa-linkedin-in"></i></a></li>
-                                        <li class="single-social-account"><a href="#"><i
-                                                    class="fab fa-instagram"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="member-info">
-                                <h5 class="member-name">Admond harb</h5>
-                                <small>Advisor</small>
-                            </div>
+                <div class="row" style="margin-bottom: 50px; margin-top: 50px">
+                    <div class="col-lg-6">
+                        
+                        {{-- <span class="section-title">An</span> --}}
+                        <h2 class="section-summary">
+                            CoastalTrustCapitals plays to our strengths, They focus on bringing your amazing ideas to life and we focus on providing all the financial boost you need.
+                        </h2>
+                    </div>
+                    <div class="col-lg-6" style="background-color: black">
+                        <video style="width: 100%;" height="400" controls {{-- poster="{{ asset('assets/coastalvest.png') }}" --}}>
+                            <source src="{{ asset('assets/videos/ob.mp4') }}" type="video/mp4">
+                        </video>
+                    </div>
+                   
+    
+                </div>
+            </div>
+        </div>
+
+        <!--    team section start   -->
+        <div class="team-section section-padding team-bg">
+            <div class="team-content">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <span class="section-title">Expert Team</span>
+                            <h2 class="section-summary">Meet our expert Coastal Trust Capital
+                                executive team
+                            </h2>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="single-team-member">
-                            <div class="team-img-wrapper">
-                                <img src="{{ asset('assets/newfile2/img/team/member-2.jpg') }}" alt="">
-                                <div class="social-accounts">
-                                    <ul class="social-account-lists">
-                                        <li class="single-social-account"><a href="#"><i
-                                                    class="fab fa-facebook-f"></i></a></li>
-                                        <li class="single-social-account"><a href="#"><i
-                                                    class="fab fa-twitter"></i></a></li>
-                                        <li class="single-social-account"><a href="#"><i
-                                                    class="fab fa-linkedin-in"></i></a></li>
-                                        <li class="single-social-account"><a href="#"><i
-                                                    class="fab fa-instagram"></i></a></li>
-                                    </ul>
+                    <div class="row">
+                        <div class="col-lg-3 col-sm-6">
+                            <div class="single-team-member">
+                                <div class="team-img-wrapper">
+                                    <img src="{{ asset('assets/newfile2/img/team/member-1.jpg') }}" alt="">
+                                    <div class="social-accounts">
+                                        <ul class="social-account-lists">
+                                            <li class="single-social-account"><a href="#"><i
+                                                        class="fab fa-facebook-f"></i></a></li>
+                                            <li class="single-social-account"><a href="#"><i
+                                                        class="fab fa-twitter"></i></a></li>
+                                            <li class="single-social-account"><a href="#"><i
+                                                        class="fab fa-linkedin-in"></i></a></li>
+                                            <li class="single-social-account"><a href="#"><i
+                                                        class="fab fa-instagram"></i></a></li>
+                                        </ul>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="member-info">
-                                <h5 class="member-name">Alen Donald</h5>
-                                <small>Managing Director</small>
+                                <div class="member-info">
+                                    <h5 class="member-name">Admond harb</h5>
+                                    <small>Advisor</small>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="single-team-member">
-                            <div class="team-img-wrapper">
-                                <img src="{{ asset('assets/newfile2/img/team/member-3.jpg') }}" alt="">
-                                <div class="social-accounts">
-                                    <ul class="social-account-lists">
-                                        <li class="single-social-account"><a href="#"><i
-                                                    class="fab fa-facebook-f"></i></a></li>
-                                        <li class="single-social-account"><a href="#"><i
-                                                    class="fab fa-twitter"></i></a></li>
-                                        <li class="single-social-account"><a href="#"><i
-                                                    class="fab fa-linkedin-in"></i></a></li>
-                                        <li class="single-social-account"><a href="#"><i
-                                                    class="fab fa-instagram"></i></a></li>
-                                    </ul>
+                        <div class="col-lg-3 col-sm-6">
+                            <div class="single-team-member">
+                                <div class="team-img-wrapper">
+                                    <img src="{{ asset('assets/newfile2/img/team/member-2.jpg') }}" alt="">
+                                    <div class="social-accounts">
+                                        <ul class="social-account-lists">
+                                            <li class="single-social-account"><a href="#"><i
+                                                        class="fab fa-facebook-f"></i></a></li>
+                                            <li class="single-social-account"><a href="#"><i
+                                                        class="fab fa-twitter"></i></a></li>
+                                            <li class="single-social-account"><a href="#"><i
+                                                        class="fab fa-linkedin-in"></i></a></li>
+                                            <li class="single-social-account"><a href="#"><i
+                                                        class="fab fa-instagram"></i></a></li>
+                                        </ul>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="member-info">
-                                <h5 class="member-name">Helen Fox</h5>
-                                <small>Technical Director</small>
+                                <div class="member-info">
+                                    <h5 class="member-name">Alen Donald</h5>
+                                    <small>Managing Director</small>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="single-team-member">
-                            <div class="team-img-wrapper">
-                                <img src="{{ asset('assets/newfile2/img/team/member-4.jpg') }}" alt="">
-                                <div class="social-accounts">
-                                    <ul class="social-account-lists">
-                                        <li class="single-social-account"><a href="#"><i
-                                                    class="fab fa-facebook-f"></i></a></li>
-                                        <li class="single-social-account"><a href="#"><i
-                                                    class="fab fa-twitter"></i></a></li>
-                                        <li class="single-social-account"><a href="#"><i
-                                                    class="fab fa-linkedin-in"></i></a></li>
-                                        <li class="single-social-account"><a href="#"><i
-                                                    class="fab fa-instagram"></i></a></li>
-                                    </ul>
+                        <div class="col-lg-3 col-sm-6">
+                            <div class="single-team-member">
+                                <div class="team-img-wrapper">
+                                    <img src="{{ asset('assets/newfile2/img/team/member-3.jpg') }}" alt="">
+                                    <div class="social-accounts">
+                                        <ul class="social-account-lists">
+                                            <li class="single-social-account"><a href="#"><i
+                                                        class="fab fa-facebook-f"></i></a></li>
+                                            <li class="single-social-account"><a href="#"><i
+                                                        class="fab fa-twitter"></i></a></li>
+                                            <li class="single-social-account"><a href="#"><i
+                                                        class="fab fa-linkedin-in"></i></a></li>
+                                            <li class="single-social-account"><a href="#"><i
+                                                        class="fab fa-instagram"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="member-info">
+                                    <h5 class="member-name">Helen Fox</h5>
+                                    <small>Technical Director</small>
                                 </div>
                             </div>
-                            <div class="member-info">
-                                <h5 class="member-name">Hirver Pauline</h5>
-                                <small>Sales And Marketting</small>
+                        </div>
+                        <div class="col-lg-3 col-sm-6">
+                            <div class="single-team-member">
+                                <div class="team-img-wrapper">
+                                    <img src="{{ asset('assets/newfile2/img/team/member-4.jpg') }}" alt="">
+                                    <div class="social-accounts">
+                                        <ul class="social-account-lists">
+                                            <li class="single-social-account"><a href="#"><i
+                                                        class="fab fa-facebook-f"></i></a></li>
+                                            <li class="single-social-account"><a href="#"><i
+                                                        class="fab fa-twitter"></i></a></li>
+                                            <li class="single-social-account"><a href="#"><i
+                                                        class="fab fa-linkedin-in"></i></a></li>
+                                            <li class="single-social-account"><a href="#"><i
+                                                        class="fab fa-instagram"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="member-info">
+                                    <h5 class="member-name">Hirver Pauline</h5>
+                                    <small>Sales And Marketting</small>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+            <div class="team-overlay"></div>
         </div>
-        <div class="team-overlay"></div>
-    </div>
-    <!--    team section end   -->
+        <!--    team section end   -->
 
 
-    <!--    blog section start   -->
-    {{-- <div class="blog-section section-padding">
+        <!--    blog section start   -->
+        {{-- <div class="blog-section section-padding">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
@@ -644,29 +659,29 @@
             </div>
         </div>
     </div> --}}
-    <!--    blog section end   -->
+        <!--    blog section end   -->
 
 
 
 
 
-    <!--    footer section start   -->
-    @include('includes.home_footer')
+        <!--    footer section start   -->
+        @include('includes.home_footer')
 
 
-    <!--    footer section end   -->
+        <!--    footer section end   -->
 
 
-    <!-- preloader section start -->
+        <!-- preloader section start -->
 
-    <!-- preloader section end -->
-
-
-
+        <!-- preloader section end -->
 
 
 
-    @include('includes.home_script')
+
+
+
+        @include('includes.home_script')
 
 </body>
 

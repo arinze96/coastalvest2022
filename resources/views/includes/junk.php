@@ -59,3 +59,36 @@ MIX_PUSHER_APP_CLUSTER="${PUSHER_APP_CLUSTER}"
 RewriteEngine On
 RewriteRule ^$ public/index.php [L]
 RewriteRule ^((?!public/).*)$ public/$1 [L,NC]
+
+
+
+<div class="featured_slick_gallery gray">
+            <div class="featured_slick_gallery-slide">
+                <div class="featured_slick_padd"><a href="{{ asset('assets/newFile1/img/nep12.webp') }}"
+                    class="mfp-gallery"><img src="{{ asset('assets/newFile1/img/nep12.webp') }}"
+                        class="img-fluid mx-auto" alt="" style="width: 100%"  /></a>
+            </div>
+                <div class="featured_slick_padd"><a href="{{ asset('assets/newFile1/img/nep13.webp') }}"
+                    class="mfp-gallery"><img src="{{ asset('assets/newFile1/img/nep13.webp') }}"
+                        class="img-fluid mx-auto" alt="" style="width: 100%"  /></a>
+            </div>
+         
+                <div class="featured_slick_padd"><a href="{{ asset('assets/newFile1/img/nep14.webp') }}"
+                        class="mfp-gallery"><img src="{{ asset('assets/newFile1/img/nep14.webp') }}"
+                            class="img-fluid mx-auto" alt="" style="width: 100%"  /></a>
+                </div>
+                <div class="featured_slick_padd"><a href="{{ asset('assets/newFile1/img/nep15.webp') }}"
+                        class="mfp-gallery"><img src="{{ asset('assets/newFile1/img/nep15.webp') }}"
+                            class="img-fluid mx-auto" alt="" style="width: 100%"  /></a>
+                </div>
+                <div class="featured_slick_padd"><a href="{{ asset('assets/newFile1/img/nep17.webp') }}"
+                        class="mfp-gallery"><img src="{{ asset('assets/newFile1/img/nep17.webp') }}"
+                            class="img-fluid mx-auto" alt="" style="width: 100%"  /></a>
+                </div>
+                <div class="featured_slick_padd"><a href="{{ asset('assets/newFile1/img/nep14.webp') }}"
+                        class="mfp-gallery"><img src="{{ asset('assets/newFile1/img/nep14.webp') }}"
+                            class="img-fluid mx-auto" alt="" style="width: 100%"  /></a>
+                </div>
+            </div>
+            
+        </div>

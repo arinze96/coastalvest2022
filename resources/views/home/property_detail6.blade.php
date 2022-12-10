@@ -37,30 +37,30 @@
 
         <div class="featured_slick_gallery gray">
             <div class="featured_slick_gallery-slide">
-                <div class="featured_slick_padd"><a href="{{ asset('assets/newFile1/img/0mg53.webp') }}"
-                    class="mfp-gallery"><img src="{{ asset('assets/newFile1/img/0mg53.webp') }}"
-                        class="img-fluid mx-auto" alt="" /></a>
+                <div class="featured_slick_padd"><a href="{{ asset('assets/newFile1/img/nep12.webp') }}"
+                    class="mfp-gallery"><img src="{{ asset('assets/newFile1/img/nep12.webp') }}"
+                        class="img-fluid mx-auto" alt="" style="width: 100%"  /></a>
             </div>
-                <div class="featured_slick_padd"><a href="{{ asset('assets/newFile1/img/0mg54.webp') }}"
-                    class="mfp-gallery"><img src="{{ asset('assets/newFile1/img/0mg54.webp') }}"
-                        class="img-fluid mx-auto" alt="" /></a>
+                <div class="featured_slick_padd"><a href="{{ asset('assets/newFile1/img/nep13.webp') }}"
+                    class="mfp-gallery"><img src="{{ asset('assets/newFile1/img/nep13.webp') }}"
+                        class="img-fluid mx-auto" alt="" style="width: 100%"  /></a>
             </div>
          
-                <div class="featured_slick_padd"><a href="{{ asset('assets/newFile1/img/0mg55.webp') }}"
-                        class="mfp-gallery"><img src="{{ asset('assets/newFile1/img/0mg55.webp') }}"
-                            class="img-fluid mx-auto" alt="" /></a>
+                <div class="featured_slick_padd"><a href="{{ asset('assets/newFile1/img/nep14.webp') }}"
+                        class="mfp-gallery"><img src="{{ asset('assets/newFile1/img/nep14.webp') }}"
+                            class="img-fluid mx-auto" alt="" style="width: 100%"  /></a>
                 </div>
-                <div class="featured_slick_padd"><a href="{{ asset('assets/newFile1/img/0mg59.webp') }}"
-                        class="mfp-gallery"><img src="{{ asset('assets/newFile1/img/0mg59.webp') }}"
-                            class="img-fluid mx-auto" alt="" /></a>
+                <div class="featured_slick_padd"><a href="{{ asset('assets/newFile1/img/nep15.webp') }}"
+                        class="mfp-gallery"><img src="{{ asset('assets/newFile1/img/nep15.webp') }}"
+                            class="img-fluid mx-auto" alt="" style="width: 100%"  /></a>
                 </div>
-                <div class="featured_slick_padd"><a href="{{ asset('assets/newFile1/img/0mg57.webp') }}"
-                        class="mfp-gallery"><img src="{{ asset('assets/newFile1/img/0mg57.webp') }}"
-                            class="img-fluid mx-auto" alt="" /></a>
+                <div class="featured_slick_padd"><a href="{{ asset('assets/newFile1/img/nep17.webp') }}"
+                        class="mfp-gallery"><img src="{{ asset('assets/newFile1/img/nep17.webp') }}"
+                            class="img-fluid mx-auto" alt="" style="width: 100%"  /></a>
                 </div>
-                <div class="featured_slick_padd"><a href="{{ asset('assets/newFile1/img/0mg58.webp') }}"
-                        class="mfp-gallery"><img src="{{ asset('assets/newFile1/img/0mg58.webp') }}"
-                            class="img-fluid mx-auto" alt="" /></a>
+                <div class="featured_slick_padd"><a href="{{ asset('assets/newFile1/img/nep14.webp') }}"
+                        class="mfp-gallery"><img src="{{ asset('assets/newFile1/img/nep14.webp') }}"
+                            class="img-fluid mx-auto" alt="" style="width: 100%"  /></a>
                 </div>
             </div>
             

@@ -164,18 +164,18 @@
                     r(
                       "div",
                       { className: "container" },
-                      r(
-                        t.a,
-                        { href: "/" },
-                        r(
-                          "a",
-                          { onClick: o, className: "navbar-brand" },
-                          r("img", {
-                            src: "newfile3/img/logo.png",
-                            alt: "logo",
-                          })
-                        )
-                      ),
+                      // r(
+                      //   t.a,
+                      //   { href: "/" },
+                      //   r(
+                      //     "a",
+                      //     { onClick: o, className: "navbar-brand" },
+                      //     r("img", {
+                      //       src: "/img/logo.png",
+                      //       alt: "logo",
+                      //     })
+                      //   )
+                      // ),
                       r(
                         "button",
                         {
