@@ -214,7 +214,8 @@ class UserController extends Controller
         return view("home.property_detail13", ['loggedInUser' => $loggedInUser]);
     }
     public function returncryptoMarket(Request $request) {
-        return view("home.crypto_market");
+        $loggedInUser = Auth::id();
+        return view("home.crypto_market", ['loggedInUser' => $loggedInUser]);
     }
     public function returntechStartup(Request $request) {
         $loggedInUser = Auth::id();
