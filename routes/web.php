@@ -56,7 +56,7 @@ Route::get("/faq", [UserController::class, "returnFAQ"])->name("user.faq");
 Route::get("/realEstate", [UserController::class, "returnrealEstate"])->name("user.realEstate");
 Route::get("/cryptoMarket", [UserController::class, "returncryptoMarket"])->name("user.cryptoMarket");
 Route::get("/techStartup", [UserController::class, "returntechStartup"])->name("user.techStartup");
-Route::get("/medHedgeFunds", [UserController::class, "returnmedHedgeFunds"])->name("user.medHedgeFunds");
+Route::get("/medHedgeFunds", [UserController::class, "returnmedHedgeFunds1"])->name("user.medHedgeFunds");
 Route::get("/realEstateDetails", [UserController::class, "returnrealEstateDetails"])->name("user.realEstateDetails");
 Route::get("/realEstateDetails1", [UserController::class, "returnrealEstateDetails1"])->name("user.realEstateDetails1");
 Route::get("/realEstateDetails2", [UserController::class, "returnrealEstateDetails2"])->name("user.realEstateDetails2");

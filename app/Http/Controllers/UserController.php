@@ -221,6 +221,10 @@ class UserController extends Controller
     public function returnmedHedgeFunds(Request $request) {
         return view("home.med_hedgefunds");
     }
+    public function returnmedHedgeFunds1(Request $request) {
+        $loggedInUser = Auth::id();
+        return view("home.med_hedgefunds1", ['loggedInUser' => $loggedInUser]);
+    }
     
 
     public function returnenergies(Request $request)

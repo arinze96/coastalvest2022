@@ -704,6 +704,12 @@
                   c(
                     "div",
                     { className: "single-widget" },
+                    c(t.a, {
+                      href: "/"
+                  }, c("a", null, c("img", {
+                      src: "/img/logo.png",
+                      alt: "Image"
+                  }))), 
                     c(
                       "p",
                       null,
@@ -743,21 +749,21 @@
                   c(
                     "div",
                     { className: "single-widget" },
-                    c("h3", null, ""),
+                    c("h3", null, "Information"),
                     c(
                       "ul",
                       null,
                       c(
                         "li",
                         null,
-                        c("a", { href: "/about" }, "")
+                        c("a", { href: "/" }, "About")
                       ),
-                      c("li", null, c("a", { href: "/about" }, "")),
-                      c("li", null, c("a", { href: "/contact" }, "")),
-                      c("li", null, c("a", { href: "/faq" }, "")),
-                      c("li", null, c("a", { href: "/terms" }, "")),
-                      c("li", null, c("a", { href: "/login" }, "")),
-                      c("li", null, c("a", { href: "/register" }, ""))
+                      c("li", null, c("a", { href: "/about" }, "About")),
+                      c("li", null, c("a", { href: "/contact" }, "Contact")),
+                      c("li", null, c("a", { href: "/faq" }, "Faq")),
+                      c("li", null, c("a", { href: "/terms" }, "Tems")),
+                      c("li", null, c("a", { href: "/login" }, "Login")),
+                      c("li", null, c("a", { href: "/register" }, "Register"))
                     )
                   )
                 ),
