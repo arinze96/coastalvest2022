@@ -112,7 +112,8 @@ class UserController extends Controller
 
     public function returnFAQ(Request $request)
     {
-        return view("home.faq");
+        $loggedInUser = Auth::id();
+        return view("home.faq", ['loggedInUser' => $loggedInUser]);
     }
 
     public function returnforex(Request $request)
@@ -122,7 +123,8 @@ class UserController extends Controller
 
     public function returnstocks(Request $request)
     {
-        return view("home.stocks");
+        $loggedInUser = Auth::id();
+        return view("home.stocks", ['loggedInUser' => $loggedInUser]);
     }
 
     public function returnshares(Request $request)
@@ -284,7 +286,8 @@ class UserController extends Controller
 
     public function returnContact(Request $request)
     {
-        return view("home.contact");
+        $loggedInUser = Auth::id();
+        return view("home.contact", ['loggedInUser' => $loggedInUser]);
     }
 
     public function returnPricing(Request $request)
@@ -337,21 +340,25 @@ class UserController extends Controller
 
     public function returnTerms(Request $request)
     {
-        return view("home.terms");
+        $loggedInUser = Auth::id();
+        return view("home.terms", ['loggedInUser' => $loggedInUser]);
     }
 
     public function returnTsProducts(Request $request)
     {
-        return view("home.techStartupProducts");
+        $loggedInUser = Auth::id();
+        return view("home.techStartupProducts", ['loggedInUser' => $loggedInUser]);
     }
     public function returnMhProducts(Request $request)
     {
-        return view("home.mHProducts");
+        $loggedInUser = Auth::id();
+        return view("mHProducts", ['loggedInUser' => $loggedInUser]);
     }
 
     public function returnAbout(Request $request)
     {
-        return view("home.about");
+        $loggedInUser = Auth::id();
+        return view("home.about", ['loggedInUser' => $loggedInUser]);
     }
 
     public function returnWithdrawalList(Request $request)
