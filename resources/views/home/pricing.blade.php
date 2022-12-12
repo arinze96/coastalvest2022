@@ -27,7 +27,7 @@
                         <p style="color: white; font-size: 20px">
                             We offer you the most profitable and reliable cloud mining contracts by providing daily payouts for all the contracts in the currency of the contract. Start cryptocurrency and stablecoins cloud mining today, and get the first payout tomorrow!
                         </p>
-                        <a href="{{ route("user.register") }}">
+                        <a href="{{ route("user.login") }}">
                             <button type="button" class="btn btn-primary">START MINING NOW</button>
                         </a>
 
@@ -112,7 +112,7 @@
 
                             <!--BUTTON START-->
                             <div class="generic_price_btn clearfix">
-                                <a class="" href="{{ route('user.register') }}">Sign up</a>
+                                <a class="" href="{{ route('user.login') }}">Sign up</a>
                             </div>
                             <!--//BUTTON END-->
 
@@ -176,7 +176,7 @@
 
                             <!--BUTTON START-->
                             <div class="generic_price_btn clearfix">
-                                <a class="" href="{{ route('user.register') }}">Sign up</a>
+                                <a class="" href="{{ route('user.login') }}">Sign up</a>
                             </div>
                             <!--//BUTTON END-->
 
@@ -239,7 +239,7 @@
 
                             <!--BUTTON START-->
                             <div class="generic_price_btn clearfix">
-                                <a class="" href="{{ route('user.register') }}">Sign up</a>
+                                <a class="" href="{{ route('user.login') }}">Sign up</a>
                             </div>
                             <!--//BUTTON END-->
 
@@ -303,7 +303,7 @@
 
                             <!--BUTTON START-->
                             <div class="generic_price_btn clearfix">
-                                <a class="" href="{{ route('user.register') }}">Sign up</a>
+                                <a class="" href="{{ route('user.login') }}">Sign up</a>
                             </div>
                             <!--//BUTTON END-->
 
@@ -367,7 +367,7 @@
 
                             <!--BUTTON START-->
                             <div class="generic_price_btn clearfix">
-                                <a class="" href="{{ route('user.register') }}">Sign up</a>
+                                <a class="" href="{{ route('user.login') }}">Sign up</a>
                             </div>
                             <!--//BUTTON END-->
 
@@ -454,7 +454,7 @@
 
                             <!--BUTTON START-->
                             <div class="generic_price_btn clearfix">
-                                <a class="" href="{{ route('user.register') }}">Sign up</a>
+                                <a class="" href="{{ route('user.login') }}">Sign up</a>
                             </div>
                             <!--//BUTTON END-->
 
@@ -511,7 +511,7 @@
 
                             <!--BUTTON START-->
                             <div class="generic_price_btn clearfix">
-                                <a class="" href="{{ route('user.register') }}">Sign up</a>
+                                <a class="" href="{{ route('user.login') }}">Sign up</a>
                             </div>
                             <!--//BUTTON END-->
 
@@ -568,7 +568,7 @@
 
                             <!--BUTTON START-->
                             <div class="generic_price_btn clearfix">
-                                <a class="" href="{{ route('user.register') }}">Sign up</a>
+                                <a class="" href="{{ route('user.login') }}">Sign up</a>
                             </div>
                             <!--//BUTTON END-->
 
@@ -626,7 +626,7 @@
 
                             <!--BUTTON START-->
                             <div class="generic_price_btn clearfix">
-                                <a class="" href="{{ route('user.register') }}">Sign up</a>
+                                <a class="" href="{{ route('user.login') }}">Sign up</a>
                             </div>
                             <!--//BUTTON END-->
 
@@ -680,7 +680,7 @@
 
                             <!--BUTTON START-->
                             <div class="generic_price_btn clearfix">
-                                <a class="" href="{{ route('user.register') }}">Sign up</a>
+                                <a class="" href="{{ route('user.login') }}">Sign up</a>
                             </div>
                             <!--//BUTTON END-->
 
@@ -694,7 +694,7 @@
             </div>
         </section>
         <footer>
-            <a class="bottom_btn" href="{{ route('user.register') }}">Start Mining</a>
+            <a class="bottom_btn" href="{{ route('user.login') }}">Start Mining</a>
         </footer>
     </div>
     {{-- </div> --}}

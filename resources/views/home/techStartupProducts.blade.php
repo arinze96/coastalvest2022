@@ -91,7 +91,7 @@
                             <h1 data-animation="fadeInLeft" data-delay=".5s" class="title">Tech Startup Investment
                                 Platform</h1>
                             <a data-animation="fadeInLeft" data-delay="1s" class="main-btn"
-                                href="{{ route('user.register') }}">Get Started</a>
+                                href="{{ route('user.login') }}">Get Started</a>
                         </div>
                     </div>
                 </div>
@@ -124,7 +124,7 @@
                                 Investment
                             </h1>
                             <a data-animation="fadeInLeft" data-delay="1s" class="main-btn"
-                                href="{{ route('user.register') }}">Get Started</a>
+                                href="{{ route('user.login') }}">Get Started</a>
                         </div>
                     </div>
                 </div>
@@ -186,7 +186,7 @@
                                     <!--Text-->
                                     <h6 class="card-text" style="margin-bottom: 20px; line-height:2; letter-spacing: 0.5px; font-size: 14px">Chainalysis is a platform that provides banks, government agencies, and other members of the blockchain ecosystem with a litany of resources to help identify and eliminate hacked or stolen funds. Its anti-money-laundering software aims to create safer interactions for all using blockchain technology</h6>
                                     <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-                                    <a href="{{ route('user.register') }}"
+                                    <a href="{{ route('user.login') }}"
                                         style="width: 60%; height: 40px; background-color: darkcyan;border-radius: 15; align-items:center; justify-content:center;display: flex;
 	flex-direction: column; border-color:darkcyan; color: white">Invest</a>
 
@@ -218,7 +218,7 @@
                                     <!--Text-->
                                     <h6 class="card-text" style="margin-bottom: 20px; line-height:2; letter-spacing: 0.5px; font-size: 14px">Unlike its competitors, Paxful is a peer-to-peer cryptocurrency marketplace that also serves as a universal money translator. With a platform that includes over 300 financial networks, Paxful offers opportunities to both buyers and sellers alike that may not have access to banking services.</h6>
                                     <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-                                    <a href="{{ route('user.register') }}"
+                                    <a href="{{ route('user.login') }}"
                                         style="width: 60%; height: 40px; background-color: darkcyan;border-radius: 15; align-items:center; justify-content:center;display: flex;
 	flex-direction: column; border-color:darkcyan; color: white">Invest</a>
 
@@ -250,7 +250,7 @@
                                     <!--Text-->
                                     <h6 class="card-text" style="margin-bottom: 20px; line-height:2; letter-spacing: 0.5px; font-size: 14px">With Spring Labs’ platform, users can expect faster and more secure information exchange due to the startup’s leveraging of blockchain transparency and data collection capabilities. With Spring Labs, fraud is reduced through an increase in verified identities, and the protection of consumer data is prioritized.</h6>
                                     <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-                                    <a href="{{ route('user.register') }}"
+                                    <a href="{{ route('user.login') }}"
                                         style="width: 60%; height: 40px; background-color: darkcyan;border-radius: 15; align-items:center; justify-content:center;display: flex;
 	flex-direction: column; border-color:darkcyan; color: white">Invest</a>
 
@@ -282,7 +282,7 @@
                                     <!--Text-->
                                     <h6 class="card-text" style="margin-bottom: 20px; line-height:2; letter-spacing: 0.5px; font-size: 14px"> Dragonchain is a blockchain startup that provide innovative blockchain-based solutions in a  variety of industries from healthcare to tech.</h6>
                                     <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-                                    <a href="{{ route('user.register') }}"
+                                    <a href="{{ route('user.login') }}"
                                         style="width: 60%; height: 40px; background-color: darkcyan;border-radius: 15; align-items:center; justify-content:center;display: flex;
 	flex-direction: column; border-color:darkcyan; color: white">Invest</a>
 
@@ -314,7 +314,7 @@
                                     <!--Text-->
                                     <h6 class="card-text" style="margin-bottom: 20px; line-height:2; letter-spacing: 0.5px; font-size: 14px">Axis Security offers management and security solutions for business applications on a global scale. purpose-built zero-trust cloud security platform.</h6>
                                     <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-                                    <a href="{{ route('user.register') }}"
+                                    <a href="{{ route('user.login') }}"
                                         style="width: 60%; height: 40px; background-color: darkcyan;border-radius: 15; align-items:center; justify-content:center;display: flex;
 	flex-direction: column; border-color:darkcyan; color: white">Invest</a>
 
@@ -346,7 +346,7 @@
                                     <!--Text-->
                                     <h6 class="card-text" style="margin-bottom: 20px; line-height:2; letter-spacing: 0.5px; font-size: 14px">Confluera is a cybersecurity platform that aims to help businesses and organizations identify, track, and manage sophisticated security threats and attacks.</h6>
                                     <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-                                    <a href="{{ route('user.register') }}"
+                                    <a href="{{ route('user.login') }}"
                                         style="width: 60%; height: 40px; background-color: darkcyan;border-radius: 15; align-items:center; justify-content:center;display: flex;
 	flex-direction: column; border-color:darkcyan; color: white">Invest</a>
 
@@ -378,7 +378,7 @@
                                     <!--Text-->
                                     <h6 class="card-text" style="margin-bottom: 20px; line-height:2; letter-spacing: 0.5px; font-size: 14px">Illumio is a security startup that has developed microsegmentation technology to produce a zero-trust security solution that wards off the spread of breaches both inside data centers and cloud..</h6>
                                     <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-                                    <a href="{{ route('user.register') }}"
+                                    <a href="{{ route('user.login') }}"
                                         style="width: 60%; height: 40px; background-color: darkcyan;border-radius: 15; align-items:center; justify-content:center;display: flex;
 	flex-direction: column; border-color:darkcyan; color: white">Invest</a>
 
@@ -410,7 +410,7 @@
                                     <!--Text-->
                                     <h6 class="card-text" style="margin-bottom: 20px; line-height:2; letter-spacing: 0.5px; font-size: 14px">Verishop is an online marketplace that curates a selection of everyday luxury brands for everything from fashion, beauty, home, and more. Quality products are the backbone of this startup that aims to become the go-to online marketplace for lifestyle goods.</h6>
                                     <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-                                    <a href="{{ route('user.register') }}"
+                                    <a href="{{ route('user.login') }}"
                                         style="width: 60%; height: 40px; background-color: darkcyan;border-radius: 15; align-items:center; justify-content:center;display: flex;
 	flex-direction: column; border-color:darkcyan; color: white">Invest</a>
 
@@ -442,7 +442,7 @@
                                     <!--Text-->
                                     <h6 class="card-text" style="margin-bottom: 20px; line-height:2; letter-spacing: 0.5px; font-size: 14px">TinyTap is a global library of educational games that are made by educators. Using the TinyTap platform, teachers can easily create educational games without coding knowledge. Additionally, families can access TinyTap’s </h6>
                                     <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-                                    <a href="{{ route('user.register') }}"
+                                    <a href="{{ route('user.login') }}"
                                         style="width: 60%; height: 40px; background-color: darkcyan;border-radius: 15; align-items:center; justify-content:center;display: flex;
 	flex-direction: column; border-color:darkcyan; color: white">Invest</a>
 

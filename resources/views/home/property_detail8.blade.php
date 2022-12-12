@@ -662,7 +662,7 @@
                                 <h3>Do you wish to invest in this property</h3>
                                 <span>We'll help you to grow your career and growth.</span>
                             </div>
-                            <a href="{{ route('user.register') }}" class="btn btn-call-to-act">SignUp Today</a>
+                            <a href="{{ route('user.login') }}" class="btn btn-call-to-act">SignUp Today</a>
                         </div>
 
                     </div>

@@ -93,7 +93,7 @@
                             <h1 data-animation="fadeInLeft" data-delay=".5s" class="title">Tech Startup Investment
                                 Platform</h1>
                             {{-- <a data-animation="fadeInLeft" data-delay="1s" class="main-btn"
-                                href="{{ route('user.register') }}">Get Started</a> --}}
+                                href="{{ route('user.login') }}">Get Started</a> --}}
                                 <a data-animation="fadeInLeft" style="margin-left: 20px" data-delay="1s" class="main-btn"
                                 href="{{ route('techStartupProduct') }}">View all products</a>
                         </div>
@@ -128,7 +128,7 @@
                                 Investment
                             </h1>
                             <a data-animation="fadeInLeft" data-delay="1s" class="main-btn"
-                                href="{{ route('user.register') }}">Get Started</a>
+                                href="{{ route('user.login') }}">Get Started</a>
                         </div>
                     </div>
                 </div>
@@ -259,7 +259,7 @@
                 <div class="col-lg-9">
                     <div class="trusted-item text-center">
                         <h3 class="title">Global Leader in Tech Startup Investment.</h3>
-                        <a class="main-btn" href="{{ route('user.register') }}">Invest</a>
+                        <a class="main-btn" href="{{ route('user.login') }}">Invest</a>
                     </div>
                 </div>
             </div>
@@ -515,7 +515,7 @@
                         <div class="we-knows-item d-block d-sm-flex">
                             <div class="we-knows-item-content">
                                 <h4 class="title">Explore our standard investment packages</h4>
-                                <a class="main-btn" href="{{ route('user.register') }}">invest <i
+                                <a class="main-btn" href="{{ route('user.login') }}">invest <i
                                         class="flaticon-right-arrow"></i></a>
                             </div>
                             <div class="we-knows-item-thumb">
@@ -528,7 +528,7 @@
                             </div>
                             <div class="we-knows-item-content">
                                 <h4 class="title">Get in touch with the tech space </h4>
-                                <a class="main-btn" href="{{ route('user.register') }}">invest<i
+                                <a class="main-btn" href="{{ route('user.login') }}">invest<i
                                         class="flaticon-right-arrow"></i></a>
                             </div>
                         </div>

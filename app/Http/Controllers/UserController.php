@@ -95,10 +95,12 @@ class UserController extends Controller
     {
 
         // $Plans =  Plan::orderBy('created_at', 'DESC')->get();
-
+        $loggedInUser = Auth::id();
+        // dd($loggedInUser);
+ 
         return view(
             "home.index"
-            // , ["Plans" => $Plans]
+            , ["loggedInUser" => $loggedInUser]
         );
     }
 
@@ -134,71 +136,87 @@ class UserController extends Controller
     }
     public function returnrealEstate(Request $request)
     {
-        return view("home.real_estate");
+        $loggedInUser = Auth::id();
+        return view("home.real_estate", ['loggedInUser' => $loggedInUser]);
     }
 
     public function returnrealEstateDetails(Request $request)
     {
-        return view("home.property_detail");
+        $loggedInUser = Auth::id();
+        return view("home.property_detail", ['loggedInUser' => $loggedInUser]);
     }
     public function returnrealEstateDetails1(Request $request)
     {
-        return view("home.property_detail1");
+        $loggedInUser = Auth::id();
+        return view("home.property_detail1", ['loggedInUser' => $loggedInUser]);
     }
     public function returnrealEstateDetails2(Request $request)
     {
-        return view("home.property_detail2");
+        $loggedInUser = Auth::id();
+        return view("home.property_detail2", ['loggedInUser' => $loggedInUser]);
     }
     public function returnrealEstateDetails3(Request $request)
     {
-        return view("home.property_detail3");
+        $loggedInUser = Auth::id();
+        return view("home.property_detail3", ['loggedInUser' => $loggedInUser]);
     }
     public function returnrealEstateDetails4(Request $request)
     {
-        return view("home.property_detail4");
+        $loggedInUser = Auth::id();
+        return view("home.property_detail4", ['loggedInUser' => $loggedInUser]);
     }
     public function returnrealEstateDetails5(Request $request)
     {
-        return view("home.property_detail5");
+        $loggedInUser = Auth::id();
+        return view("home.property_detail5", ['loggedInUser' => $loggedInUser]);
     }
     public function returnrealEstateDetails6(Request $request)
     {
-        return view("home.property_detail6");
+        $loggedInUser = Auth::id();
+        return view("home.property_detail6", ['loggedInUser' => $loggedInUser]);
     }
     public function returnrealEstateDetails7(Request $request)
     {
-        return view("home.property_detail7");
+        $loggedInUser = Auth::id();
+        return view("home.property_detail7", ['loggedInUser' => $loggedInUser]);
     }
     public function returnrealEstateDetails8(Request $request)
     {
-        return view("home.property_detail8");
+        $loggedInUser = Auth::id();
+        return view("home.property_detail8", ['loggedInUser' => $loggedInUser]);
     }
     public function returnrealEstateDetails9(Request $request)
     {
-        return view("home.property_detail9");
+        $loggedInUser = Auth::id();
+        return view("home.property_detail9", ['loggedInUser' => $loggedInUser]);
     }
     public function returnrealEstateDetails10(Request $request)
     {
-        return view("home.property_detail10");
+        $loggedInUser = Auth::id();
+        return view("home.property_detail10", ['loggedInUser' => $loggedInUser]);
     }
     public function returnrealEstateDetails11(Request $request)
     {
-        return view("home.property_detail11");
+        $loggedInUser = Auth::id();
+        return view("home.property_detail11", ['loggedInUser' => $loggedInUser]);
     }
     public function returnrealEstateDetails12(Request $request)
     {
-        return view("home.property_detail12");
+        $loggedInUser = Auth::id();
+        return view("home.property_detail12", ['loggedInUser' => $loggedInUser]);
     }
 
     public function returnrealEstateDetails13(Request $request)
     {
-        return view("home.property_detail13");
+        $loggedInUser = Auth::id();
+        return view("home.property_detail13", ['loggedInUser' => $loggedInUser]);
     }
     public function returncryptoMarket(Request $request) {
         return view("home.crypto_market");
     }
     public function returntechStartup(Request $request) {
-        return view("home.tech_startup");
+        $loggedInUser = Auth::id();
+        return view("home.tech_startup", ['loggedInUser' => $loggedInUser]);
     }
     public function returnmedHedgeFunds(Request $request) {
         return view("home.med_hedgefunds");

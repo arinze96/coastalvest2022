@@ -203,7 +203,7 @@
                                 <div class="inner-container">
                                     <h4>This property is available in the market</h4>
                                     <p>Real Estate</p>
-                                    <a href="{{ route('user.register') }}" class="readmore-btn"><span>Invest</span></a>
+                                    <a href="{{ route('user.login') }}" class="readmore-btn"><span>Invest</span></a>
                                 </div>
                             </div>
                         </div>
@@ -212,7 +212,7 @@
                                 <div class="inner-container">
                                     <h4>This property is available in the market</h4>
                                     <p>Real Estate</p>
-                                    <a href="{{ route('user.register') }}"
+                                    <a href="{{ route('user.login') }}"
                                         class="readmore-btn"><span>Invest</span></a>
                                 </div>
                             </div>
@@ -222,7 +222,7 @@
                                 <div class="inner-container">
                                     <h4>This property is available in the market</h4>
                                     <p>Real Estate</p>
-                                    <a href="{{ route('user.register') }}"
+                                    <a href="{{ route('user.login') }}"
                                         class="readmore-btn"><span>Invest</span></a>
                                 </div>
                             </div>
@@ -232,7 +232,7 @@
                                 <div class="inner-container">
                                     <h4>This property is available in the market</h4>
                                     <p>Real Estate</p>
-                                    <a href="{{ route('user.register') }}"
+                                    <a href="{{ route('user.login') }}"
                                         class="readmore-btn"><span>Invest</span></a>
                                 </div>
                             </div>
@@ -242,7 +242,7 @@
                                 <div class="inner-container">
                                     <h4>This property is available in the market</h4>
                                     <p>Real Estate</p>
-                                    <a href="{{ route('user.register') }}"
+                                    <a href="{{ route('user.login') }}"
                                         class="readmore-btn"><span>Invest</span></a>
                                 </div>
                             </div>
@@ -252,7 +252,7 @@
                                 <div class="inner-container">
                                     <h4>This property is available in the market</h4>
                                     <p>Real Estate</p>
-                                    <a href="{{ route('user.register') }}"
+                                    <a href="{{ route('user.login') }}"
                                         class="readmore-btn"><span>Invest</span></a>
                                 </div>
                             </div>

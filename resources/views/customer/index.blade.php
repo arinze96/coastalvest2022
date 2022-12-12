@@ -41,7 +41,7 @@
                         <hr />
                         <div class="btn-group" style="margin-bottom: 20px">
                             {{-- <button type="button" class="btn btn-success">Copy Referral Link</button> &nbsp; --}}
-                            <input type="text" value="{{ route('user.register', [auth()->user()->username]) }}">
+                            <input type="text" value="{{ route('user.login', [auth()->user()->username]) }}">
                             <button class="btn btn-copy" data-feedback=" Copied"><i class="fa fa-clone" style="color: skyblue" aria-hidden="true"></i></button>
                            
                         </div>

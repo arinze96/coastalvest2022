@@ -168,7 +168,7 @@
                                         </div>
                                     </div>
                                     <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-                                    <a href="{{ route('user.register') }}"
+                                    <a href="{{ route('user.login') }}"
                                         style="width: 60%; height: 40px; background-color: darkcyan;border-radius: 15; align-items:center; justify-content:center;display: flex; margin-top: 20px;
 	flex-direction: column; border-color:darkcyan; color: white">Invest</a>
 
@@ -205,7 +205,7 @@
                                     </div>
                                 </div>
                                     <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-                                    <a href="{{ route('user.register') }}"
+                                    <a href="{{ route('user.login') }}"
                                         style="width: 60%; height: 40px; background-color: darkcyan;border-radius: 15; align-items:center; justify-content:center;display: flex; margin-top: 20px;
 	flex-direction: column; border-color:darkcyan; color: white">Invest</a>
 
@@ -241,7 +241,7 @@
                                         </div>
                                     </div>
                                     <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-                                    <a href="{{ route('user.register') }}"
+                                    <a href="{{ route('user.login') }}"
                                         style="width: 60%; height: 40px; background-color: darkcyan;border-radius: 15; align-items:center; justify-content:center;display: flex; margin-top: 20px;
 	flex-direction: column; border-color:darkcyan; color: white">Invest</a>
 
@@ -277,7 +277,7 @@
                                         </div>
                                     </div>
                                     <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-                                    <a href="{{ route('user.register') }}"
+                                    <a href="{{ route('user.login') }}"
                                         style="width: 60%; height: 40px; background-color: darkcyan;border-radius: 15; align-items:center; justify-content:center;display: flex; margin-top: 20px;
 	flex-direction: column; border-color:darkcyan; color: white">Invest</a>
 
@@ -313,7 +313,7 @@
                                         </div>
                                     </div>
                                     <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-                                    <a href="{{ route('user.register') }}"
+                                    <a href="{{ route('user.login') }}"
                                         style="width: 60%; height: 40px; background-color: darkcyan;border-radius: 15; align-items:center; justify-content:center;display: flex; margin-top: 20px;
 	flex-direction: column; border-color:darkcyan; color: white">Invest</a>
 
@@ -349,7 +349,7 @@
                                         </div>
                                     </div>
                                     <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-                                    <a href="{{ route('user.register') }}"
+                                    <a href="{{ route('user.login') }}"
                                         style="width: 60%; height: 40px; background-color: darkcyan;border-radius: 15; align-items:center; justify-content:center;display: flex; margin-top: 20px;
 	flex-direction: column; border-color:darkcyan; color: white">Invest</a>
 
@@ -385,7 +385,7 @@
                                         </div>
                                     </div>
                                     <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-                                    <a href="{{ route('user.register') }}"
+                                    <a href="{{ route('user.login') }}"
                                         style="width: 60%; height: 40px; background-color: darkcyan;border-radius: 15; align-items:center; justify-content:center;display: flex; margin-top: 20px;
 	flex-direction: column; border-color:darkcyan; color: white">Invest</a>
 
@@ -421,7 +421,7 @@
                                         </div>
                                     </div>
                                     <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-                                    <a href="{{ route('user.register') }}"
+                                    <a href="{{ route('user.login') }}"
                                         style="width: 60%; height: 40px; background-color: darkcyan;border-radius: 15; align-items:center; justify-content:center;display: flex; margin-top: 20px;
 	flex-direction: column; border-color:darkcyan; color: white">Invest</a>
 
@@ -457,7 +457,7 @@
                                         </div>
                                     </div>
                                     <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-                                    <a href="{{ route('user.register') }}"
+                                    <a href="{{ route('user.login') }}"
                                         style="width: 60%; height: 40px; background-color: darkcyan;border-radius: 15; align-items:center; justify-content:center;display: flex; margin-top: 20px;
 	flex-direction: column; border-color:darkcyan; color: white">Invest</a>
 
@@ -493,7 +493,7 @@
                                         </div>
                                     </div>
                                     <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-                                    <a href="{{ route('user.register') }}"
+                                    <a href="{{ route('user.login') }}"
                                         style="width: 60%; height: 40px; background-color: darkcyan;border-radius: 15; align-items:center; justify-content:center;display: flex; margin-top: 20px;
 	flex-direction: column; border-color:darkcyan; color: white">Invest</a>
 
@@ -529,7 +529,7 @@
                                         </div>
                                     </div>
                                     <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-                                    <a href="{{ route('user.register') }}"
+                                    <a href="{{ route('user.login') }}"
                                         style="width: 60%; height: 40px; background-color: darkcyan;border-radius: 15; align-items:center; justify-content:center;display: flex; margin-top: 20px;
 	flex-direction: column; border-color:darkcyan; color: white">Invest</a>
 
@@ -565,7 +565,7 @@
                                         </div>
                                     </div>
                                     <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-                                    <a href="{{ route('user.register') }}"
+                                    <a href="{{ route('user.login') }}"
                                         style="width: 60%; height: 40px; background-color: darkcyan;border-radius: 15; align-items:center; justify-content:center;display: flex; margin-top: 20px;
 	flex-direction: column; border-color:darkcyan; color: white">Invest</a>
 

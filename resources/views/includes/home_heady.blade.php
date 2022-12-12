@@ -42,7 +42,7 @@
           <a href="{{ route('user.terms') }}">Terms of Use</a>
         </li>
         <li>
-          <a href="{{ route('user.login') }}">Login</a>
+          <a href="{{ route('user.login') }}">{{ $loggedInUser !== null ? 'Dashboard' : 'Login' }}</a>
         </li>
         <li>
           <a href="{{ route('user.register') }}">Register</a>

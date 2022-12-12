@@ -25,8 +25,10 @@
                 </div>
                 <div class="col-lg-10 col-6 text-right position-static">
                     <ul class="main-menu" id="mainMenu">
+
+
                         <li><a href="{{ route('about') }}">About Us</a></li>
-                        <li><a href="{{ route('user.cryptoMarket') }}">Crypto Market</a></li>
+                        <li><a href="{{ route('user.cryptoMarket') }}">Crypto</a></li>
                         <li class="dropdown">
                             <a class="dropdown-btn" href="#">Investments</a>
                             <ul class="dropdown-lists">
@@ -39,7 +41,9 @@
                         <li><a href="{{ route('user.faq') }}">FAQs</a></li>
                         <li><a href="{{ route('user.contact') }}">Contact-Us</a></li>
                         <li><a href="{{ route('user.terms') }}">Terms of Use</a></li>
-                        <li><a href="{{ route('user.login') }}">Login</a></li>
+                        <li><a
+                                href="{{ $loggedInUser !== null ? route('user.login') : route('user.login') }}">{{ $loggedInUser !== null ? 'Dashboard' : 'Login' }}</a>
+                        </li>
                         <li><a href="{{ route('user.register') }}" class="boxed-btn">Register</a></li>
                     </ul>
                     <div id="mobileMenu"></div>

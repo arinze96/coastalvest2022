@@ -348,7 +348,7 @@
                                             width="18" alt="" />210 Zirak Road, Canada</div>
                                 </div>
                                 <div class="footer-flex">
-                                    <a href="{{ route('user.register') }}" class="prt-view">Invest</a>
+                                    <a href="{{ route('user.login') }}" class="prt-view">Invest</a>
                                 </div>
                             </div>
 
@@ -411,7 +411,7 @@
                                         VA</div>
                                 </div>
                                 <div class="footer-flex">
-                                    <a href="{{ route('user.register') }}" class="prt-view">Invest</a>
+                                    <a href="{{ route('user.login') }}" class="prt-view">Invest</a>
                                 </div>
                             </div>
 
@@ -474,7 +474,7 @@
                                         Anaheim, CA</div>
                                 </div>
                                 <div class="footer-flex">
-                                    <a href="{{ route('user.register') }}" class="prt-view">Invest</a>
+                                    <a href="{{ route('user.login') }}" class="prt-view">Invest</a>
                                 </div>
                             </div>
 
@@ -537,7 +537,7 @@
                                         Elgin, IL</div>
                                 </div>
                                 <div class="footer-flex">
-                                    <a href="{{ route('user.register') }}" class="prt-view">Invest</a>
+                                    <a href="{{ route('user.login') }}" class="prt-view">Invest</a>
                                 </div>
                             </div>
 
@@ -600,7 +600,7 @@
                                         Media, PA</div>
                                 </div>
                                 <div class="footer-flex">
-                                    <a href="{{ route('user.register') }}" class="prt-view">Invest</a>
+                                    <a href="{{ route('user.login') }}" class="prt-view">Invest</a>
                                 </div>
                             </div>
 
@@ -663,7 +663,7 @@
                                         New Kensington, PA</div>
                                 </div>
                                 <div class="footer-flex">
-                                    <a href="{{ route('user.register') }}" class="prt-view">Invest</a>
+                                    <a href="{{ route('user.login') }}" class="prt-view">Invest</a>
                                 </div>
                             </div>
 
@@ -902,7 +902,7 @@
                                             Chula Vista</span>
                                     </div>
                                     <div class="listing-detail-btn">
-                                        <a href="{{ route('user.register') }}" class="more-btn">Invest</a>
+                                        <a href="{{ route('user.login') }}" class="more-btn">Invest</a>
                                     </div>
                                 </div>
 
@@ -973,7 +973,7 @@
                                             Vallejo, CA </span>
                                     </div>
                                     <div class="listing-detail-btn">
-                                        <a href="{{ route('user.register') }}" class="more-btn">Invest</a>
+                                        <a href="{{ route('user.login') }}" class="more-btn">Invest</a>
                                     </div>
                                 </div>
 
@@ -1045,7 +1045,7 @@
                                             Los Angeles, CA</span>
                                     </div>
                                     <div class="listing-detail-btn">
-                                        <a href="{{ route('user.register') }}" class="more-btn">Invest</a>
+                                        <a href="{{ route('user.login') }}" class="more-btn">Invest</a>
                                     </div>
                                 </div>
 
@@ -1117,7 +1117,7 @@
                                             Fremont, CA</span>
                                     </div>
                                     <div class="listing-detail-btn">
-                                        <a href="{{ route('user.register') }}" class="more-btn">Invest</a>
+                                        <a href="{{ route('user.login') }}" class="more-btn">Invest</a>
                                     </div>
                                 </div>
 
@@ -1285,7 +1285,7 @@
                                 </ul>
                             </div>
                             <div class="pricing-bottom">
-                                <a href="{{route('user.register')}}" class="btn-pricing">Choose Plan</a>
+                                <a href="{{route('user.login')}}" class="btn-pricing">Choose Plan</a>
                             </div>
 
                         </div>
@@ -1309,7 +1309,7 @@
                                 </ul>
                             </div>
                             <div class="pricing-bottom">
-                                <a href="{{route('user.register')}}" class="btn-pricing">Choose Plan</a>
+                                <a href="{{route('user.login')}}" class="btn-pricing">Choose Plan</a>
                             </div>
 
                         </div>
@@ -1333,7 +1333,7 @@
                                 </ul>
                             </div>
                             <div class="pricing-bottom">
-                                <a href="{{route('user.register')}}" class="btn-pricing">Choose Plan</a>
+                                <a href="{{route('user.login')}}" class="btn-pricing">Choose Plan</a>
                             </div>
 
                         </div>

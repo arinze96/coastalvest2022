@@ -177,6 +177,15 @@
                       //   )
                       // ),
                       r(
+                        t.a,
+                        { href: "/", activeClassName: "active" },
+                        r(
+                          "a",
+                          { onClick: o, className: "nav-link" },
+                          "Coastal Trust Capitals"
+                        )
+                      ),
+                      r(
                         "button",
                         {
                           onClick: o,

@@ -92,7 +92,7 @@
                                 Investment
                                 Platform</h1>
                             <a data-animation="fadeInLeft" data-delay="1s" class="main-btn"
-                                href="{{ route('user.register') }}">Get Started</a>
+                                href="{{ route('user.login') }}">Get Started</a>
                         </div>
                     </div>
                 </div>
@@ -126,7 +126,7 @@
                                 Investment
                             </h1>
                             <a data-animation="fadeInLeft" data-delay="1s" class="main-btn"
-                                href="{{ route('user.register') }}">Get Started</a>
+                                href="{{ route('user.login') }}">Get Started</a>
                         </div>
                     </div>
                 </div>
@@ -194,7 +194,7 @@
                                         access to a variety of videos and chat options to optimize their mental health
                                         and wellbeing.</h6>
                                     <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-                                    <a href="{{ route('user.register') }}"
+                                    <a href="{{ route('user.login') }}"
                                         style="width: 60%; height: 40px; background-color: darkcyan;border-radius: 15; align-items:center; justify-content:center;display: flex;
 	flex-direction: column; border-color:darkcyan; color: white">Invest</a>
 
@@ -232,7 +232,7 @@
                                         with a holistic medical experience.We are devoted to bring you a better health
                                     </h6>
                                     <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-                                    <a href="{{ route('user.register') }}"
+                                    <a href="{{ route('user.login') }}"
                                         style="width: 60%; height: 40px; background-color: darkcyan;border-radius: 15; align-items:center; justify-content:center;display: flex;
 	flex-direction: column; border-color:darkcyan; color: white">Invest</a>
 
@@ -270,7 +270,7 @@
                                         and support they need. Circle focuses more on the improvement on the life of our
                                         patients</h6>
                                     <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-                                    <a href="{{ route('user.register') }}"
+                                    <a href="{{ route('user.login') }}"
                                         style="width: 60%; height: 40px; background-color: darkcyan;border-radius: 15; align-items:center; justify-content:center;display: flex;
 	flex-direction: column; border-color:darkcyan; color: white">Invest</a>
 
@@ -307,7 +307,7 @@
                                         life. NervGen Pharma is attempting to tackle the problem by providing solutions
                                         and treatments to help relieve and heal the symptoms.</h6>
                                     <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-                                    <a href="{{ route('user.register') }}"
+                                    <a href="{{ route('user.login') }}"
                                         style="width: 60%; height: 40px; background-color: darkcyan;border-radius: 15; align-items:center; justify-content:center;display: flex;
 	flex-direction: column; border-color:darkcyan; color: white">Invest</a>
 
@@ -344,7 +344,7 @@
                                         intracellular target access so they can treat and heal those suffering from
                                         these devasting diseases.</h6>
                                     <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-                                    <a href="{{ route('user.register') }}"
+                                    <a href="{{ route('user.login') }}"
                                         style="width: 60%; height: 40px; background-color: darkcyan;border-radius: 15; align-items:center; justify-content:center;display: flex;
 	flex-direction: column; border-color:darkcyan; color: white">Invest</a>
 
@@ -380,7 +380,7 @@
                                         cellular elements of the immune system. Their main focus is one treating cancer
                                         and immune disorders</h6>
                                     <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-                                    <a href="{{ route('user.register') }}"
+                                    <a href="{{ route('user.login') }}"
                                         style="width: 60%; height: 40px; background-color: darkcyan;border-radius: 15; align-items:center; justify-content:center;display: flex;
 	flex-direction: column; border-color:darkcyan; color: white">Invest</a>
 
@@ -417,7 +417,7 @@
                                         treatment more accessible. Bicycle health operates in almost all major American
                                         cities and we respond quickly to all emergencies</h6>
                                     <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-                                    <a href="{{ route('user.register') }}"
+                                    <a href="{{ route('user.login') }}"
                                         style="width: 60%; height: 40px; background-color: darkcyan;border-radius: 15; align-items:center; justify-content:center;display: flex;
 	flex-direction: column; border-color:darkcyan; color: white">Invest</a>
 
@@ -454,7 +454,7 @@
                                         scheduling, as well as a stress-free veterinary experience for pets, Felmo is
                                         changing the way pet owners care for their pet’s health.</h6>
                                     <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-                                    <a href="{{ route('user.register') }}"
+                                    <a href="{{ route('user.login') }}"
                                         style="width: 60%; height: 40px; background-color: darkcyan;border-radius: 15; align-items:center; justify-content:center;display: flex;
 	flex-direction: column; border-color:darkcyan; color: white">Invest</a>
 
@@ -492,7 +492,7 @@
                                         by-products, portioned, and delivered directly to the customer’s door.
                                     </h6>
                                     <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-                                    <a href="{{ route('user.register') }}"
+                                    <a href="{{ route('user.login') }}"
                                         style="width: 60%; height: 40px; background-color: darkcyan;border-radius: 15; align-items:center; justify-content:center;display: flex;
 	flex-direction: column; border-color:darkcyan; color: white">Invest</a>
 
@@ -529,7 +529,7 @@
                                         and also boost their immune system
                                     </h6>
                                     <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-                                    <a href="{{ route('user.register') }}"
+                                    <a href="{{ route('user.login') }}"
                                         style="width: 60%; height: 40px; background-color: darkcyan;border-radius: 15; align-items:center; justify-content:center;display: flex;
 	flex-direction: column; border-color:darkcyan; color: white">Invest</a>
 
@@ -567,7 +567,7 @@
                                         expertise..
                                     </h6>
                                     <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-                                    <a href="{{ route('user.register') }}"
+                                    <a href="{{ route('user.login') }}"
                                         style="width: 60%; height: 40px; background-color: darkcyan;border-radius: 15; align-items:center; justify-content:center;display: flex;
 	flex-direction: column; border-color:darkcyan; color: white">Invest</a>
 
@@ -605,7 +605,7 @@
                                         data using artificial intelligence and machine learning.
                                     </h6>
                                     <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-                                    <a href="{{ route('user.register') }}"
+                                    <a href="{{ route('user.login') }}"
                                         style="width: 60%; height: 40px; background-color: darkcyan;border-radius: 15; align-items:center; justify-content:center;display: flex;
 	flex-direction: column; border-color:darkcyan; color: white">Invest</a>
 
