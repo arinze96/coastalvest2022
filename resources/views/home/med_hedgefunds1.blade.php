@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Medicate – Health & Medical HTML Template</title>
     <!-- Favicon Icon -->
-    <link rel="shortcut icon" href="{{ asset('assets/newFile5/images/favicon.ico') }}">
+    <link rel="shortcut icon" href="{{ asset('assets/CT.png') }}">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="{{ asset('assets/newFile5/css/bootstrap.min.css') }}">
     <!-- LOADING FONTS AND ICONS -->
