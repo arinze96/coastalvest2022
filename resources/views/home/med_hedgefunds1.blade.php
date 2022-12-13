@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Medicate – Health & Medical HTML Template</title>
+    <title>Coastal Trust Capitals</title>
     <!-- Favicon Icon -->
     <link rel="shortcut icon" href="{{ asset('assets/CT.png') }}">
     <!-- Bootstrap CSS -->
@@ -81,7 +81,7 @@
                 </div>
             </div>
         </div>
-        <div class="pq-bottom-header pq-has-sticky" style="background-color: #14457b">
+        <div class="pq-bottom-header pq-has-sticky" style="background-color: #25d06f">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
@@ -166,7 +166,7 @@
                     </rs-layer>
                     <!--
                   -->
-                    <rs-layer id="slider-24-slide-84-layer-1" data-type="text" data-color="#2490eb" data-rsp_ch="on"
+                    <rs-layer id="slider-24-slide-84-layer-1" data-type="text" data-color="#0a3041" data-rsp_ch="on"
                         data-xy="xo:41px,38px,38px,39px;y:m;yo:-197px,-154px,-121px,-78px;"
                         data-text="w:normal;s:14,14,14,13;l:22,22,26,21;fw:600;" data-dim="w:auto,auto,auto,144px;"
                         data-frame_0="x:50,39,29,17;" data-frame_1="st:600;sp:1000;sR:600;"
@@ -178,7 +178,7 @@
                     <rs-layer id="slider-24-slide-84-layer-2" data-type="text" data-color="#18100f" data-rsp_ch="on"
                         data-xy="xo:30px,30px,30px,31px;y:m;yo:-105px,-75px,-50px,-30px;"
                         data-text="w:normal;s:64,48,42,22;l:72,56,50,30;fw:600;"
-                        data-border="boc:#14457b;bow:1px,1px,1px,1px;" data-frame_0="x:50,39,29,17;"
+                        data-border="boc:#25d06f;bow:1px,1px,1px,1px;" data-frame_0="x:50,39,29,17;"
                         data-frame_1="st:900;sp:1000;sR:900;" data-frame_999="o:0;st:w;sR:7100;"
                         style="z-index:10;font-family:'Quicksand';text-transform:capitalize;">Medical Health made
                         easy<br>
@@ -194,16 +194,16 @@
                     </rs-layer>
                     <!--
                   --><a id="slider-24-slide-84-layer-6" class="rs-layer pq-button rev-btn"
-                        href="{{ route('about') }}" target="_self" data-type="button" data-rsp_ch="on"
+                        href="{{ route('medicalHedgefundsProduct') }}" target="_self" data-type="button" data-rsp_ch="on"
                         data-xy="xo:27px,30px,30px,30px;y:m;yo:93px,97px,104px,37px;"
                         data-text="w:normal;s:14,16,16,12;l:22,24,30,20;fw:600;a:left,left,center,center;"
                         data-dim="minh:0px,none,none,none;"
                         data-padding="t:15,15,10,10;r:30,30,25,20;b:15,15,10,10;l:30,30,25,20;"
                         data-border="bor:3px,3px,3px,3px;" data-frame_0="x:50,39,29,17;"
                         data-frame_1="st:1300;sp:1000;sR:1300;" data-frame_999="o:0;st:w;sR:6700;"
-                        data-frame_hover="bgc:#14457b;bor:3px,3px,3px,3px;bos:solid;sp:100;bri:120%;"
-                        style="z-index:12;background-color:#2490eb;font-family:'Quicksand';text-transform:uppercase;"><span
-                            class="text">Read More</span><i class="ion ion-plus-round"></i>
+                        data-frame_hover="bgc:#25d06f;bor:3px,3px,3px,3px;bos:solid;sp:100;bri:120%;"
+                        style="z-index:12;background-color:#0a3041;font-family:'Quicksand';text-transform:uppercase;"><span
+                            class="text">View All Products</span><i class="ion ion-plus-round"></i>
                     </a>
                     <!--
                   -->
@@ -225,7 +225,7 @@
                     </rs-layer>
                     <!--
                   -->
-                    <rs-layer id="slider-24-slide-85-layer-1" data-type="text" data-color="#2490eb" data-rsp_ch="on"
+                    <rs-layer id="slider-24-slide-85-layer-1" data-type="text" data-color="#0a3041" data-rsp_ch="on"
                         data-xy="xo:41px,38px,38px,37px;y:m;yo:-197px,-154px,-121px,-75px;"
                         data-text="w:normal;s:14,14,14,13;l:22,22,26,21;fw:600;" data-frame_0="x:50,39,29,17;"
                         data-frame_1="st:1100;sp:1000;sR:1100;" data-frame_999="o:0;st:w;sR:6900;"
@@ -236,7 +236,7 @@
                     <rs-layer id="slider-24-slide-85-layer-2" data-type="text" data-color="#18100f" data-rsp_ch="on"
                         data-xy="xo:30px,30px,30px,31px;y:m;yo:-105px,-75px,-50px,-30px;"
                         data-text="w:normal;s:64,48,42,22;l:72,56,50,30;fw:600;"
-                        data-border="boc:#14457b;bow:1px,1px,1px,1px;" data-frame_0="x:50,39,29,17;"
+                        data-border="boc:#25d06f;bow:1px,1px,1px,1px;" data-frame_0="x:50,39,29,17;"
                         data-frame_1="st:1400;sp:1000;sR:1400;" data-frame_999="o:0;st:w;sR:6600;"
                         style="z-index:10;font-family:'Quicksand';text-transform:capitalize;">up your Investment
                         <br>
@@ -259,8 +259,8 @@
                         data-padding="t:15,15,10,10;r:30,30,25,20;b:15,15,10,10;l:30,30,25,20;"
                         data-border="bor:3px,3px,3px,3px;" data-frame_0="x:50,39,29,17;"
                         data-frame_1="st:1900;sp:1000;sR:1800;" data-frame_999="o:0;st:w;sR:6200;"
-                        data-frame_hover="bgc:#14457b;bor:3px,3px,3px,3px;bos:solid;sp:100;bri:120%;"
-                        style="z-index:12;background-color:#2490eb;font-family:'Quicksand';text-transform:uppercase;"><span
+                        data-frame_hover="bgc:#25d06f;bor:3px,3px,3px,3px;bos:solid;sp:100;bri:120%;"
+                        style="z-index:12;background-color:#0a3041;font-family:'Quicksand';text-transform:uppercase;"><span
                             class="text">Read More</span><i class="ion ion-plus-round"></i>
                     </a>
                     <!--
@@ -283,7 +283,7 @@
                     </rs-layer>
                     <!--
                   -->
-                    <rs-layer id="slider-24-slide-86-layer-1" data-type="text" data-color="#2490eb" data-rsp_ch="on"
+                    <rs-layer id="slider-24-slide-86-layer-1" data-type="text" data-color="#0a3041" data-rsp_ch="on"
                         data-xy="xo:41px,38px,38px,37px;y:m;yo:-197px,-154px,-121px,-81px;"
                         data-text="w:normal;s:14,14,14,13;l:22,22,26,21;fw:600;" data-frame_0="x:50,39,29,17;"
                         data-frame_1="st:1100;sp:1000;sR:1100;" data-frame_999="o:0;st:w;sR:6900;"
@@ -294,7 +294,7 @@
                     <rs-layer id="slider-24-slide-86-layer-2" data-type="text" data-color="#18100f" data-rsp_ch="on"
                         data-xy="xo:30px,30px,30px,31px;y:m;yo:-105px,-75px,-50px,-30px;"
                         data-text="w:normal;s:64,48,42,22;l:72,56,50,30;fw:600;"
-                        data-border="boc:#14457b;bow:1px,1px,1px,1px;" data-frame_0="x:50,39,29,17;"
+                        data-border="boc:#25d06f;bow:1px,1px,1px,1px;" data-frame_0="x:50,39,29,17;"
                         data-frame_1="st:1400;sp:1000;sR:1400;" data-frame_999="o:0;st:w;sR:6600;"
                         style="z-index:10;font-family:'Quicksand';text-transform:capitalize;">Setting standards<br>
                         in medical hedgefunds investments
@@ -316,8 +316,8 @@
                         data-padding="t:15,15,10,10;r:30,30,25,20;b:15,15,10,10;l:30,30,25,20;"
                         data-border="bor:3px,3px,3px,3px;" data-frame_0="x:50,39,29,17;"
                         data-frame_1="st:1900;sp:1000;sR:1800;" data-frame_999="o:0;st:w;sR:6200;"
-                        data-frame_hover="bgc:#14457b;bor:3px,3px,3px,3px;bos:solid;sp:100;bri:120%;"
-                        style="z-index:12;background-color:#2490eb;font-family:'Quicksand';text-transform:uppercase;"><span
+                        data-frame_hover="bgc:#25d06f;bor:3px,3px,3px,3px;bos:solid;sp:100;bri:120%;"
+                        style="z-index:12;background-color:#0a3041;font-family:'Quicksand';text-transform:uppercase;"><span
                             class="text">Read More</span><i class="ion ion-plus-round"></i>
                     </a>
                     <!--

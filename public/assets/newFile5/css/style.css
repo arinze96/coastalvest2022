@@ -65,8 +65,8 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
 [ Moz Selection ]
 ==================================================*/
 :root {
-  --primary-color: #2490eb;
-  --primary-dark-color: #14457b;
+  --primary-color: #0a3041;
+  --primary-dark-color: #25d06f;
   --dark-color: #18100f;
   --secondary-color: #666666;
   --grey-color: #f4f6f9;
@@ -6123,13 +6123,13 @@ rev-slider
   width: 12px;
   height: 12px;
   position: absolute;
-  background: #14457b;
-  background: -moz-linear-gradient(top, #14457b 0%, #14457b 100%);
-  background: -webkit-linear-gradient(top, #14457b 0%, #14457b 100%);
-  background: -o-linear-gradient(top, #14457b 0%, #14457b 100%);
-  background: -ms-linear-gradient(top, #14457b 0%, #14457b 100%);
-  background: linear-gradient(to bottom, #14457b 0%, #14457b 100%);
-  filter: progid:dximagetransform.microsoft.gradient(startcolorstr='#14457b', endcolorstr='#14457b', gradienttype=0);
+  background: #25d06f;
+  background: -moz-linear-gradient(top, #25d06f 0%, #25d06f 100%);
+  background: -webkit-linear-gradient(top, #25d06f 0%, #25d06f 100%);
+  background: -o-linear-gradient(top, #25d06f 0%, #25d06f 100%);
+  background: -ms-linear-gradient(top, #25d06f 0%, #25d06f 100%);
+  background: linear-gradient(to bottom, #25d06f 0%, #25d06f 100%);
+  filter: progid:dximagetransform.microsoft.gradient(startcolorstr='#25d06f', endcolorstr='#25d06f', gradienttype=0);
   border: 3px solid #e5e5e5;
   border-radius: 50%;
   cursor: pointer;
@@ -6142,7 +6142,7 @@ rev-slider
 #rev_slider_25_1_wrapper .hesperiden .tp-bullet.selected,
 #rev_slider_29_1_wrapper .hesperiden .tp-bullet.rs-touchhover,
 #rev_slider_29_1_wrapper .hesperiden .tp-bullet.selected/ {
-  background: #2490eb;
+  background: #0a3041;
 }
 
 
