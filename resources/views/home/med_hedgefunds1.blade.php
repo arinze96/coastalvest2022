@@ -252,7 +252,7 @@
                     </rs-layer>
                     <!--
                   --><a id="slider-24-slide-85-layer-6" class="rs-layer pq-button rev-btn"
-                        href="{{ route('about') }}" target="_self" data-type="button" data-rsp_ch="on"
+                        href="{{ route('medicalHedgefundsProduct') }}" target="_self" data-type="button" data-rsp_ch="on"
                         data-xy="xo:27px,30px,30px,30px;y:m;yo:93px,97px,104px,37px;"
                         data-text="w:normal;s:14,16,16,12;l:22,24,30,20;fw:600;a:left,left,center,center;"
                         data-dim="minh:0px,none,none,none;"
@@ -261,7 +261,7 @@
                         data-frame_1="st:1900;sp:1000;sR:1800;" data-frame_999="o:0;st:w;sR:6200;"
                         data-frame_hover="bgc:#25d06f;bor:3px,3px,3px,3px;bos:solid;sp:100;bri:120%;"
                         style="z-index:12;background-color:#0a3041;font-family:'Quicksand';text-transform:uppercase;"><span
-                            class="text">Read More</span><i class="ion ion-plus-round"></i>
+                            class="text">View All Products</span><i class="ion ion-plus-round"></i>
                     </a>
                     <!--
                   -->
@@ -308,7 +308,7 @@
                         style="z-index:8;background-color:#d3e9fb;">
                     </rs-layer>
                     <!--
-                  --><a id="slider-24-slide-86-layer-6" class="rs-layer pq-button rev-btn" href="about-us.html"
+                  --><a id="slider-24-slide-86-layer-6" class="rs-layer pq-button rev-btn" href="{{ route('medicalHedgefundsProduct') }}"
                         target="_self" data-type="button" data-rsp_ch="on"
                         data-xy="xo:27px,30px,30px,30px;y:m;yo:93px,97px,104px,37px;"
                         data-text="w:normal;s:14,16,16,12;l:22,24,30,20;fw:600;a:left,left,center,center;"
@@ -318,11 +318,12 @@
                         data-frame_1="st:1900;sp:1000;sR:1800;" data-frame_999="o:0;st:w;sR:6200;"
                         data-frame_hover="bgc:#25d06f;bor:3px,3px,3px,3px;bos:solid;sp:100;bri:120%;"
                         style="z-index:12;background-color:#0a3041;font-family:'Quicksand';text-transform:uppercase;"><span
-                            class="text">Read More</span><i class="ion ion-plus-round"></i>
+                            class="text">View All Products</span><i class="ion ion-plus-round"></i>
                     </a>
                     <!--
                   -->
                 </rs-slide>
+                
             </rs-slides>
             <rs-static-layers>
                 <!--
