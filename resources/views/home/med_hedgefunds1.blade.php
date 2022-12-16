@@ -194,7 +194,7 @@
                     </rs-layer>
                     <!--
                   --><a id="slider-24-slide-84-layer-6" class="rs-layer pq-button rev-btn"
-                        href="{{ route('medicalHedgefundsProduct') }}" target="_self" data-type="button" data-rsp_ch="on"
+                        href="{{ route('energies') }}" target="_self" data-type="button" data-rsp_ch="on"
                         data-xy="xo:27px,30px,30px,30px;y:m;yo:93px,97px,104px,37px;"
                         data-text="w:normal;s:14,16,16,12;l:22,24,30,20;fw:600;a:left,left,center,center;"
                         data-dim="minh:0px,none,none,none;"
@@ -252,7 +252,7 @@
                     </rs-layer>
                     <!--
                   --><a id="slider-24-slide-85-layer-6" class="rs-layer pq-button rev-btn"
-                        href="{{ route('medicalHedgefundsProduct') }}" target="_self" data-type="button" data-rsp_ch="on"
+                        href="{{ route('energies') }}" target="_self" data-type="button" data-rsp_ch="on"
                         data-xy="xo:27px,30px,30px,30px;y:m;yo:93px,97px,104px,37px;"
                         data-text="w:normal;s:14,16,16,12;l:22,24,30,20;fw:600;a:left,left,center,center;"
                         data-dim="minh:0px,none,none,none;"
@@ -308,7 +308,7 @@
                         style="z-index:8;background-color:#d3e9fb;">
                     </rs-layer>
                     <!--
-                  --><a id="slider-24-slide-86-layer-6" class="rs-layer pq-button rev-btn" href="{{ route('medicalHedgefundsProduct') }}"
+                  --><a id="slider-24-slide-86-layer-6" class="rs-layer pq-button rev-btn" href="{{ route('energies') }}"
                         target="_self" data-type="button" data-rsp_ch="on"
                         data-xy="xo:27px,30px,30px,30px;y:m;yo:93px,97px,104px,37px;"
                         data-text="w:normal;s:14,16,16,12;l:22,24,30,20;fw:600;a:left,left,center,center;"

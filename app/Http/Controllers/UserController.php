@@ -232,7 +232,8 @@ class UserController extends Controller
 
     public function returnenergies(Request $request)
     {
-        return view("home.energies");
+        $loggedInUser = Auth::id();
+        return view("home.energies", ['loggedInUser' => $loggedInUser]);
     }
 
     public function returnindices(Request $request)
