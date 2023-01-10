@@ -51,7 +51,7 @@ class AccountController extends Controller
         ];
         $headers = [
             'Accepts: application/json',
-            'X-CMC_PRO_API_KEY: eeb8b988-76a8-4b01-a434-539233a88cb2'
+            'X-CMC_PRO_API_KEY: beff2e59-242a-4800-a417-d2e4a564f2ac'
         ];
         $qs = http_build_query($parameters); // query string encode the parameters
         $request = "{$url}?{$qs}"; // create the request URL
