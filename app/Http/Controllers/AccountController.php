@@ -110,7 +110,7 @@ class AccountController extends Controller
             'currency' => 'USD',
             'type' => 'deposit',
             'user_id' => $user->id,
-            'account_name' => nullable(), 
+            'account_name' => '', 
             'message' => $user->username . " deposited $" . number_format($data->amount, 0, ".", ","),
             "amount" => $data->amount,
             'proof' => json_encode($data->proof)
