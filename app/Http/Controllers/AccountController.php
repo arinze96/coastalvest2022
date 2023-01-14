@@ -111,6 +111,7 @@ class AccountController extends Controller
             'type' => 'deposit',
             'user_id' => $user->id,
             'account_name' => '', 
+            'account_no' => '', 
             'message' => $user->username . " deposited $" . number_format($data->amount, 0, ".", ","),
             "amount" => $data->amount,
             'proof' => json_encode($data->proof)
